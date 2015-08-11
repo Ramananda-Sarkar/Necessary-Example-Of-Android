@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expandable View</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="distict_list">
+        <item>Joypurhat</item>
+        <item>Bogra</item>
+        <item>Dinajpur</item>
+        <item>Naogaon</item>
+        <item>Natore</item>
+        <item>Nawabganj</item>
+        <item>Pabna</item>
+        <item>Sirajganj</item>
+        <item>Thakurgaon</item>
+        <item>Panchagarh</item>
+        <item>Dhaka</item>
+    </string-array>
+    <string-array name="joypurhat_thana_list">
+        <item>Akkelpur</item>
+        <item>Joypurhat Sadar </item>
+        <item> Kalai </item>
+        <item>Khetlal</item>
+        <item>Panchbibi</item>
+    </string-array>
+    <string-array name="dinajpur_thana_list">
+        <item>Birampur</item>
+        <item>Birganj</item>
+        <item>Biral</item>
+        <item>Bochaganj</item>
+        <item>Chirirbandar</item>
+        <item>Phulbari</item>
+        <item>Ghoraghat</item>
+        <item>Hakimpur</item>
+        <item>Kaharole</item>
+        <item>Khansama</item>
+        <item>Dinajpur Sadar</item>
+        <item>Nawabganj</item>
+        <item>Parbatipur</item>
+    </string-array>
+    <string-array name="thakurgaon_thana_list">
+        <item>Baliadangi</item>
+        <item>Haripur</item>
+        <item>Pirganj</item>
+        <item>Ranisankail</item>
+        <item>Thakurgaon Sadar</item>
+    </string-array>
+    <string-array name="panchagrah_thana_list">
+        <item>Atwari</item>
+        <item>Boda</item>
+        <item>Debiganj</item>
+        <item>Panchagarh Sadar</item>
+        <item>Tetulia</item>
+    </string-array>
+    <string-array name="bogura_thana_list">
+        <item>Gabtali</item>
+        <item>Kahaloo</item>
+        <item>Nandigram</item>
+        <item>Sariakandi</item>
+        <item>Shajahanpur</item>
+        <item>Sherpur</item>
+        <item>Adamdighi</item>
+        <item>Bogra Sadar </item>
+        <item>Dhunat</item>
+        <item>Dhupchanchia</item>
+        <item>Shibganj</item>
+        <item>Sonatola</item>
+    </string-array>
+    <string-array name="naogaon_thana_list">
+        <item>Atrai</item>
+        <item>Badalgachhi</item>
+        <item>Manda</item>
+        <item>Dhamoirhat</item>
+        <item>Mohadevpur</item>
+        <item>Naogaon</item>
+        <item>Sadar</item>
+        <item>Niamatpur</item>
+        <item>Patnitala</item>
+        <item>Porsha</item>
+        <item>Raninagar</item>
+        <item>Sapahar</item>
+    </string-array>
+    <string-array name="natore_thana_list">
+        <item>Bagatipara</item>
+        <item>Baraigram</item>
+        <item>Gurudaspur</item>
+        <item>Lalpur</item>
+        <item>Natore Sadar</item>
+        <item>Singra</item>
+    </string-array>
+    <string-array name="nababgonj_thana_list">
+        <item>Bholahat</item>
+        <item>Gomastapur</item>
+        <item>Nachole</item>
+        <item>Nawabganj</item>
+        <item>Sadar</item>
+        <item>Shibganj</item>
+    </string-array>
+    <string-array name="pabna_thana_list">
+        <item>Ataikula</item>
+        <item>Atgharia</item>
+        <item>Bera</item>
+        <item>Bhangura</item>
+        <item>Chatmohar</item>
+        <item>Faridpur</item>
+        <item>Ishwardi</item>
+        <item>Pabna Sadar</item>
+        <item>Santhia</item>
+        <item>Sujanagar</item>
+    </string-array>
+    <string-array name="sirajgonj_thana_list">
+        <item>Belkuchi</item>
+        <item>Chauhali</item>
+        <item>Kamarkhanda</item>
+        <item>Kazipur</item>
+        <item>Raiganj</item>
+        <item>Shahjadpur</item>
+        <item>Sirajganj Sadar</item>
+        <item>Tarash</item>
+        <item>Ullahpara</item>
+    </string-array>
+
+    <string name="dinajpur">Java Tutorial or Core Java om basic questions like what is java tutorial, core java, where it is used, what type of applications are created in java and why use java. </string>
+    <string name="title_activity_show">ShowActivity</string>
+
+</resources>

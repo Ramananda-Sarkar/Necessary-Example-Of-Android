@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_color_selection">
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+    </string-array>
+
+</resources>

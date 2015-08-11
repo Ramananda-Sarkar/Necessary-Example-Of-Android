@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleDeleteListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="ranklebel">Rank:</string>
+    <string name="countrylabel">Country:</string>
+    <string name="populationlabel">Population:</string>
+    <string name="delete">Delete:</string>
+    <string name="image_description">Flag:</string>
+
+</resources>

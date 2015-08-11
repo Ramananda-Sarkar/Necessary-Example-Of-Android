@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item
+        android:id="@+id/action_append"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="Append entry"/>
+    <item
+        android:id="@+id/action_delete_all"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="Delete All Entries"/>
+    <item
+        android:id="@+id/action_edit_entry"
+        android:orderInCategory="3"
+        android:showAsAction="never"
+        android:title="Edit Entry"/>
+    <item
+        android:id="@+id/action_sort_alpha"
+        android:orderInCategory="4"
+        android:showAsAction="never"
+        android:title="Sort Alphabetically"/>
+    <item
+        android:id="@+id/action_sort_id"
+        android:orderInCategory="5"
+        android:showAsAction="never"
+        android:title="Sort By ID"/>
+    <item
+        android:id="@+id/action_back_home"
+        android:orderInCategory="6"
+        android:showAsAction="never"
+        android:title="Back To Home"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
